@@ -20,7 +20,6 @@
 </head>
 <body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.5.1/pixi.min.js"></script>
-<script src="/js/game.js"></script>
-
+<script type="module" src="/js/game.js"></script>
 </body>
 </html>
